@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="account.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600130622" remote="130073618600000000" Dst="2" />
+<file name="admin.module.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600360635" remote="130073618600000000" Dst="2" />
+<file name="admin.question.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600730656" remote="130073618600000000" Dst="2" />
+<file name="admin.section.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599980613" remote="130073618590000000" Dst="2" />
+<file name="admin.subsection.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618601150680" remote="130073618600000000" Dst="2" />
+<file name="admin.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600090620" remote="130073618600000000" Dst="2" />
+<file name="contact.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600670653" remote="130073618600000000" Dst="2" />
+<file name="footer.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599890608" remote="130073618590000000" Dst="2" />
+<file name="header.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600360635" remote="130073618600000000" Dst="2" />
+<file name="help.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600260629" remote="130073618600000000" Dst="2" />
+<file name="index.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600580648" remote="130073618600000000" Dst="2" />
+<file name="legal.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600310632" remote="130073618600000000" Dst="2" />
+<file name="login.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599660595" remote="130073618590000000" Dst="2" />
+<file name="navbar.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599640594" remote="130073618590000000" Dst="2" />
+<file name="report.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600690654" remote="130073618600000000" Dst="2" />
+<file name="revision.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599680596" remote="130073618590000000" Dst="2" />
+<file name="style.css" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600250629" remote="130073618600000000" Dst="2" />
+<file name="terms.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600830662" remote="130073618600000000" Dst="2" />
+<file name="verification.main.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600220627" remote="130073618600000000" Dst="2" />
+<file name="verification.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599720598" remote="130073618590000000" Dst="2" />
+<file name="verification.umodule.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618600800660" remote="130073618600000000" Dst="2" />
+<file name="verification.uquestion.tpl.php" server="D:/Programs/Adobe Dreamweaver CS6/assfc_server/" local="130073618599630593" remote="130073618590000000" Dst="2" />
+<file name="account.tpl.php" server="D:/XAMPP/" local="130073618600130622" remote="130073618600000000" Dst="2" />
+<file name="admin.module.tpl.php" server="D:/XAMPP/" local="130073618600360635" remote="130073618600000000" Dst="2" />
+<file name="admin.question.tpl.php" server="D:/XAMPP/" local="130073618600730656" remote="130073618600000000" Dst="2" />
+<file name="admin.section.tpl.php" server="D:/XAMPP/" local="130073618599980613" remote="130073618590000000" Dst="2" />
+<file name="admin.subsection.tpl.php" server="D:/XAMPP/" local="130073618601150680" remote="130073618600000000" Dst="2" />
+<file name="admin.tpl.php" server="D:/XAMPP/" local="130073618600090620" remote="130073618600000000" Dst="2" />
+<file name="contact.tpl.php" server="D:/XAMPP/" local="130073618600670653" remote="130073618600000000" Dst="2" />
+<file name="footer.tpl.php" server="D:/XAMPP/" local="130073618599890608" remote="130073618590000000" Dst="2" />
+<file name="header.tpl.php" server="D:/XAMPP/" local="130073618600360635" remote="130073618600000000" Dst="2" />
+<file name="help.tpl.php" server="D:/XAMPP/" local="130073618600260629" remote="130073618600000000" Dst="2" />
+<file name="index.tpl.php" server="D:/XAMPP/" local="130073618600580648" remote="130073618600000000" Dst="2" />
+<file name="legal.tpl.php" server="D:/XAMPP/" local="130073618600310632" remote="130073618600000000" Dst="2" />
+<file name="login.tpl.php" server="D:/XAMPP/" local="130073618599660595" remote="130073618590000000" Dst="2" />
+<file name="navbar.tpl.php" server="D:/XAMPP/" local="130073618599640594" remote="130073618590000000" Dst="2" />
+<file name="report.tpl.php" server="D:/XAMPP/" local="130073618600690654" remote="130073618600000000" Dst="2" />
+<file name="revision.tpl.php" server="D:/XAMPP/" local="130073618599680596" remote="130073618590000000" Dst="2" />
+<file name="style.css" server="D:/XAMPP/" local="130073618600250629" remote="130073618600000000" Dst="2" />
+<file name="terms.tpl.php" server="D:/XAMPP/" local="130073618600830662" remote="130073618600000000" Dst="2" />
+<file name="verification.main.tpl.php" server="D:/XAMPP/" local="130073618600220627" remote="130073618600000000" Dst="2" />
+<file name="verification.tpl.php" server="D:/XAMPP/" local="130073618599720598" remote="130073618590000000" Dst="2" />
+<file name="verification.umodule.tpl.php" server="D:/XAMPP/" local="130073618600800660" remote="130073618600000000" Dst="2" />
+<file name="verification.uquestion.tpl.php" server="D:/XAMPP/" local="130073618599630593" remote="130073618590000000" Dst="2" />
+<file name="account.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600130622" remote="130073618600000000" Dst="2" />
+<file name="admin.module.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600360635" remote="130073618600000000" Dst="2" />
+<file name="admin.question.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600730656" remote="130073618600000000" Dst="2" />
+<file name="admin.section.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599980613" remote="130073618590000000" Dst="2" />
+<file name="admin.subsection.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618601150680" remote="130073618600000000" Dst="2" />
+<file name="admin.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600090620" remote="130073618600000000" Dst="2" />
+<file name="contact.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600670653" remote="130073618600000000" Dst="2" />
+<file name="footer.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599890608" remote="130073618590000000" Dst="2" />
+<file name="header.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130078859893120962" remote="130078859890000000" Dst="2" />
+<file name="help.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600260629" remote="130073618600000000" Dst="2" />
+<file name="index.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130078847673062014" remote="130078847670000000" Dst="2" />
+<file name="legal.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600310632" remote="130073618600000000" Dst="2" />
+<file name="login.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599660595" remote="130073618590000000" Dst="2" />
+<file name="navbar.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130078845065982898" remote="130078845060000000" Dst="2" />
+<file name="report.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600690654" remote="130073618600000000" Dst="2" />
+<file name="revision.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599680596" remote="130073618590000000" Dst="2" />
+<file name="style.css" server="D:/XAMPP/htdocs/assfc/" local="130073618600250629" remote="130073618600000000" Dst="2" />
+<file name="terms.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600830662" remote="130073618600000000" Dst="2" />
+<file name="verification.main.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600220627" remote="130073618600000000" Dst="2" />
+<file name="verification.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599720598" remote="130073618590000000" Dst="2" />
+<file name="verification.umodule.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618600800660" remote="130073618600000000" Dst="2" />
+<file name="verification.uquestion.tpl.php" server="D:/XAMPP/htdocs/assfc/" local="130073618599630593" remote="130073618590000000" Dst="2" />
+</dwsync>

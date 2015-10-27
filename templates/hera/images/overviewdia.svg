@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="46cm" height="30cm" viewBox="218 378 904 583" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffee70" points="360,440 560,440 600,540 560,640 360,640 400,540 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360,440 560,440 600,540 560,640 360,640 400,540 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffa070" points="220,440 340,440 380,540 340,640 220,640 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220,440 340,440 380,540 340,640 220,640 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="295.114" y="537.068">
+    <tspan x="295.114" y="537.068">Select scope</tspan>
+    <tspan x="295.114" y="558.235">of verification</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="480" y="516.092">
+    <tspan x="480" y="516.092">Describe your</tspan>
+    <tspan x="480" y="537.259">system by</tspan>
+    <tspan x="480" y="558.425">answering</tspan>
+    <tspan x="480" y="579.592">simple questions</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffee70" points="580,440 760,440 800,540 760,640 580,640 620,540 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580,440 760,440 800,540 760,640 580,640 620,540 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="696.416" y="514.218">
+    <tspan x="696.416" y="514.218">Complete</tspan>
+    <tspan x="696.416" y="535.385">application</tspan>
+    <tspan x="696.416" y="556.551">by using</tspan>
+    <tspan x="696.416" y="577.718">interactive help</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #dfff70" points="780,440 940,440 980,540 940,640 780,640 820,540 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="780,440 940,440 980,540 940,640 780,640 820,540 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="480" y="1160">
+    <tspan x="480" y="1160"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #afecff" points="320,380 1100,380 1120,400 1100,420 320,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320,380 1100,380 1120,400 1100,420 320,420 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="520">
+    <tspan x="500" y="520"></tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="680" y="405.376">
+    <tspan x="680" y="405.376">Self compliance</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="893.582" y="536.092">
+    <tspan x="893.582" y="536.092">Declare</tspan>
+    <tspan x="893.582" y="557.259">self compliance</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #dfff70" points="960,440 1120,440 1120,640 960,640 1000,540 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" points="960,440 1120,440 1120,640 960,640 1000,540 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1056.79" y="520">
+    <tspan x="1056.79" y="520">Create</tspan>
+    <tspan x="1056.79" y="541.167">final</tspan>
+    <tspan x="1056.79" y="562.333">compliance</tspan>
+    <tspan x="1056.79" y="583.5">documents</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #afecff" points="220,380 232,380 232,420 220,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220,380 232,380 232,420 220,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="240,380 260,380 260,420 240,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240,380 260,380 260,420 240,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="268,380 312,380 312,420 268,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="268,380 312,380 312,420 268,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="960,660 1120,660 1120,680 1040,700 960,680 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="960,660 1120,660 1120,680 1040,700 960,680 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1041.82" y="681.07">
+    <tspan x="1041.82" y="681.07">If required</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffee70" points="720,700 940,700 900,800 940,900 720,900 680,800 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720,700 940,700 900,800 940,900 720,900 680,800 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffa070" points="920,800 960,700 1040,720 1120,700 1120,900 960,900 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="920,800 960,700 1040,720 1120,700 1120,900 960,900 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffee70" points="480,700 700,700 660,800 700,900 480,900 440,800 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,700 700,700 660,800 700,900 480,900 440,800 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="560" y="805.348">
+    <tspan x="560" y="805.348">Audit</tspan>
+    <tspan x="560" y="826.515"></tspan>
+    <tspan x="560" y="847.681"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #dfff70" points="460,700 420,800 460,900 220,900 220,700 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" points="460,700 420,800 460,900 220,900 220,700 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="1080">
+    <tspan x="520" y="1080"></tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1032.37" y="772.72">
+    <tspan x="1032.37" y="772.72">Submit </tspan>
+    <tspan x="1032.37" y="793.887">compliance</tspan>
+    <tspan x="1032.37" y="815.053">documents</tspan>
+    <tspan x="1032.37" y="836.22">to HERA/SCNZ</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="800" y="784.278">
+    <tspan x="800" y="784.278">Verification </tspan>
+    <tspan x="800" y="805.445">by</tspan>
+    <tspan x="800" y="826.611">HERA / SCNZ</tspan>
+  </text>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="320" y="780">
+    <tspan x="320" y="780">Certificate:</tspan>
+    <tspan x="320" y="801.167">Verification of</tspan>
+    <tspan x="320" y="822.333">Compliance</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #afecff" points="1108,920 1120,920 1120,960 1108,960 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1108,920 1120,920 1120,960 1108,960 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="1080,920 1100,920 1100,960 1080,960 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,920 1100,920 1100,960 1080,960 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="1028,920 1072,920 1072,960 1028,960 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1028,920 1072,920 1072,960 1028,960 "/>
+  </g>
+  <g>
+    <polygon style="fill: #afecff" points="220,940 240,920 1020,920 1020,960 240,960 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="220,940 240,920 1020,920 1020,960 240,960 "/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="671.448" y="948.552">
+    <tspan x="671.448" y="948.552">Verification by HERA/SCNZ</tspan>
+  </text>
+</svg>
